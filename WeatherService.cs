@@ -41,10 +41,8 @@ namespace WeatherSearch
                             weatherForecasts.Add(new WeatherForecast
                             {
                                 Date = Convert.ToDateTime(weatherInfoDetail.applicable_date).ToString("d", CultureInfo.CreateSpecificCulture("en-US"))
-                                ,
-                                Summary = weatherInfoDetail.weather_state_name
-                                ,
-                                TemperatureC = weatherInfoDetail.the_temp
+                                , Summary = weatherInfoDetail.weather_state_name
+                                , TemperatureC = weatherInfoDetail.the_temp
                             });
                         }
                     }
