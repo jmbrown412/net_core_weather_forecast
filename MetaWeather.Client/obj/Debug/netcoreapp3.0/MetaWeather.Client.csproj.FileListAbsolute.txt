@@ -1,0 +1,15 @@
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.deps.json
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.dll
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.csprojAssemblyReference.cache
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.AssemblyInfoInputs.cache
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.AssemblyInfo.cs
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.pdb
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.dll
+C:\Work\Fun\WeatherSearch\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.pdb
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.deps.json
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.dll
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\bin\Debug\netcoreapp3.0\MetaWeather.Client.pdb
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.AssemblyInfoInputs.cache
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.AssemblyInfo.cs
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.dll
+C:\Work\Fun\WeatherSearchFixUp\MetaWeather.Client\obj\Debug\netcoreapp3.0\MetaWeather.Client.pdb
